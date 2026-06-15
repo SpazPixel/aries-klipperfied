@@ -37,7 +37,7 @@ Firmware files will be automatically flashed to stm32 board via voxelab's built 
 
 Open bottom panel of printer.
 
-Connect Klipper host to printer via configured UART pins (see "MCU.png").
+Connect Klipper host to printer via configured UART pins (see "pads.jpg").
 
 If you know what you're doing, you may want to solder some Dupont style pins to the UART pads (a 2-gang of pins from your average microcontroller works perfectly if you bend the small side to fit in snugly).
 
